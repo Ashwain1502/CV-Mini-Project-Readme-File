@@ -38,6 +38,7 @@ These features are stored in an array of shape (80, 4096) for each video.
 
 ## 2. Caption Generation
 # Model Architecture:
+![Architecture](path/to/your/image.png)
 
 Encoder: A stack of Long Short-Term Memory (LSTM) layers processes the sequential frame features extracted from VGG16.
 Decoder: Another LSTM network generates captions, conditioned on the output of the encoder.
