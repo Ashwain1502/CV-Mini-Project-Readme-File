@@ -1,3 +1,8 @@
+# Names
+Arvind Prabhu - 211IT010
+Ashwani Kumar - 211IT013
+Jaheer Khan - 211IT026
+
 # VidCap
 This project was created as part of the Computer Vision course.
 It aims to create accurate video captions using video data.
