@@ -13,7 +13,8 @@ This project was developed as part of a Computer Vision course. It focuses on ge
 # Dataset: MSVD (Microsoft Video Description Dataset)
 The MSVD dataset is used for training and evaluation. It contains short YouTube videos with associated human-written captions. For this project:
 
-Video links from the MSVD dataset were used to download the videos.
+Video Links from the MSVD dataset were used to download the videos. 
+Dataset Link: Click Here(https://www.kaggle.com/datasets/vtrnanh/msvd-dataset-corpus)
 The downloaded videos were processed to extract frames, which were used for training and evaluation.
 
 # Implementation Details
