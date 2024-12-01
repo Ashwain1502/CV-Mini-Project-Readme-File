@@ -55,12 +55,8 @@ Training Data: A subset of the MSVD dataset, processed for both video frames and
 
 # Results
 The performance of the model was evaluated using standard metrics for text generation tasks:
-1. BLEU-4 (Bilingual Evaluation Understudy Score): Measures n-gram precision with a brevity penalty to account for overly short generated captions.
-
-Achieved BLEU-4 score: 0.151.
-2. METEOR (Metric for Evaluation of Translation with Explicit ORdering): Evaluates caption quality based on precision, recall, and synonym matching.
-
-Achieved METEOR score: 0.043.
+1. BLEU-4 (Bilingual Evaluation Understudy Score): Measures n-gram precision with a brevity penalty to account for overly short generated captions. Achieved BLEU-4 score: 0.151.
+2. METEOR (Metric for Evaluation of Translation with Explicit ORdering): Evaluates caption quality based on precision, recall, and synonym matching. Achieved METEOR score: 0.043.
 
 These scores reflect the model's ability to generate captions that partially align with human-written descriptions.
 
